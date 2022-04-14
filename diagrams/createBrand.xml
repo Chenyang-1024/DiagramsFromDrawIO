@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-14T02:12:36.612Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="1FrFGX-9jVnl7GnkoNTw" version="17.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-14T02:13:51.681Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="HAEP4zm9w--CYcxbQif1" version="17.4.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -30,9 +30,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7HoAGZ9jMr0wmjLCag_4-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=blockThin;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7HoAGZ9jMr0wmjLCag_4-3" target="7HoAGZ9jMr0wmjLCag_4-12">
+        <mxCell id="7HoAGZ9jMr0wmjLCag_4-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=blockThin;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7HoAGZ9jMr0wmjLCag_4-3" target="7HoAGZ9jMr0wmjLCag_4-18">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="414" y="220" as="targetPoint" />
+            <mxPoint x="414" y="225" as="targetPoint" />
             <Array as="points">
               <mxPoint x="500" y="225" />
             </Array>
@@ -46,19 +46,23 @@
         <mxCell id="7HoAGZ9jMr0wmjLCag_4-3" value="审核资质" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="460" y="100" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7HoAGZ9jMr0wmjLCag_4-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=blockThin;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7HoAGZ9jMr0wmjLCag_4-12" target="7HoAGZ9jMr0wmjLCag_4-17">
+        <mxCell id="7HoAGZ9jMr0wmjLCag_4-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=blockThin;endFill=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7HoAGZ9jMr0wmjLCag_4-18" target="7HoAGZ9jMr0wmjLCag_4-17">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="225" as="sourcePoint" />
             <mxPoint x="208" y="225" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7HoAGZ9jMr0wmjLCag_4-12" value="品牌商账号&lt;br&gt;入库" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="290" y="200" width="124" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="7HoAGZ9jMr0wmjLCag_4-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=blockThin;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7HoAGZ9jMr0wmjLCag_4-12" target="7HoAGZ9jMr0wmjLCag_4-12">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="7HoAGZ9jMr0wmjLCag_4-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=blockThin;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="352" y="250" as="sourcePoint" />
+            <mxPoint x="352" y="250" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="7HoAGZ9jMr0wmjLCag_4-17" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="205" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7HoAGZ9jMr0wmjLCag_4-18" value="&lt;span&gt;品牌商账号&lt;/span&gt;&lt;br&gt;&lt;span&gt;入库&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="314" y="195" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
